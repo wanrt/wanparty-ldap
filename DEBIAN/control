@@ -1,0 +1,10 @@
+Source: wanparty-ldap
+Section: unknown
+Priority: extra
+Maintainer: Sohaib Lafifi <sohaib.lafifi@univ-artois.fr>
+Homepage: wanparty.neticien.net
+Package: wanparty-ldap
+Version: 1.1.16
+Architecture: all
+Depends: ldap-utils, wanparty-base
+Description: configuration de ldap pour le server locale de la wan
